@@ -1,1 +1,1 @@
-# inventory_management
+## Urban Retail Co. Inventory Management
